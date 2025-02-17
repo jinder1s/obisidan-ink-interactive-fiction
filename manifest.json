@@ -1,0 +1,11 @@
+{
+	"id": "inky-plugin",
+	"name": "Inky Love",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Experiment with inky integration with obsidian!",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
